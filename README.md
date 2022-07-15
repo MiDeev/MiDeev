@@ -10,4 +10,6 @@ Here I will show my progress in learning different things, and in the future I w
 
 ###### Over time, I will supplement this information...
 
+<!-- dark -->
+
 [MiDeev]:https://github.com/MiDeev
